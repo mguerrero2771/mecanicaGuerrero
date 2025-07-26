@@ -122,7 +122,7 @@ const Testimonials = () => {
                 <div className="space-y-4">
                   <button 
                     className="bg-neon-blue hover:bg-hover-blue text-dark-bg font-semibold px-8 py-3 rounded-lg transition-colors text-lg"
-                    onClick={() => window.open('https://wa.me/0998152358', '_blank')}
+                    onClick={() => window.open('https://wa.me/+593998152358', '_blank')}
                   >
                     Solicita tu cotización gratuita →
                   </button>
