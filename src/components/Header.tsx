@@ -57,7 +57,7 @@ const Header = () => {
             <Button 
               variant="neon" 
               size="sm"
-              onClick={() => window.open('https://wa.me/5551234567', '_blank')}
+              onClick={() => window.open('https://wa.me/0998152358', '_blank')}
             >
               WhatsApp
             </Button>
@@ -105,7 +105,7 @@ const Header = () => {
                 size="sm" 
                 className="w-full mt-3"
                 onClick={() => {
-                  window.open('https://wa.me/5551234567', '_blank');
+                  window.open('https://wa.me/0998152358', '_blank');
                   setIsMenuOpen(false);
                 }}
               >
